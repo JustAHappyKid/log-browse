@@ -1,0 +1,3 @@
+DirectoryIndex webapp.cgi
+AddHandler cgi-script .cgi
+Options +ExecCGI
